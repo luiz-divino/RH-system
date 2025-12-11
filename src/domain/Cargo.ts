@@ -1,0 +1,1 @@
+export type Cargo = 'gerente' | 'desenvolvedor' | 'analista' | 'estagiario' | 'contador';
